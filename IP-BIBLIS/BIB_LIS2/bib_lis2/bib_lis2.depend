@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1608636262 source:e:\work\ip_biblis\bib_lis2\bib_lis2\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<graphics.h>
+	"draw_elem.h"
+	"linked_list.h"
+
+1608630568 e:\work\ip_biblis\bib_lis2\bib_lis2\draw_elem.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1608628076 e:\work\ip_biblis\bib_lis2\bib_lis2\linked_list.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1609693699 source:c:\users\radu\documents\github\ip-biblis\bib_lis2\bib_lis2\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<graphics.h>
+	"draw_elem.h"
+	"linked_list.h"
+	"queue.h"
+
+1609325272 c:\users\radu\documents\github\ip-biblis\bib_lis2\bib_lis2\draw_elem.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1609694717 c:\users\radu\documents\github\ip-biblis\bib_lis2\bib_lis2\linked_list.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1609694947 c:\users\radu\documents\github\ip-biblis\bib_lis2\bib_lis2\queue.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1609330400 source:c:\users\radu\desktop\ip-biblis-main\bib_lis2\bib_lis2\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<graphics.h>
+	"draw_elem.h"
+	"linked_list.h"
+	"queue.h"
+
+1609325272 c:\users\radu\desktop\ip-biblis-main\bib_lis2\bib_lis2\draw_elem.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1609325272 c:\users\radu\desktop\ip-biblis-main\bib_lis2\bib_lis2\linked_list.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1609325272 c:\users\radu\desktop\ip-biblis-main\bib_lis2\bib_lis2\queue.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1610051638 source:c:\users\andrei\documents\github\ip-biblis\bib_lis2\bib_lis2\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<graphics.h>
+	"draw_elem.h"
+	"linked_list.h"
+	"double_list.h"
+	"stack.h"
+	"queue.h"
+
+1610051638 c:\users\andrei\documents\github\ip-biblis\bib_lis2\bib_lis2\draw_elem.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1610051638 c:\users\andrei\documents\github\ip-biblis\bib_lis2\bib_lis2\linked_list.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1610051792 c:\users\andrei\documents\github\ip-biblis\bib_lis2\bib_lis2\double_list.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1610051805 c:\users\andrei\documents\github\ip-biblis\bib_lis2\bib_lis2\stack.h
+	<bits/stdc++.h>
+	<graphics.h>
+
+1610051638 c:\users\andrei\documents\github\ip-biblis\bib_lis2\bib_lis2\queue.h
+	<bits/stdc++.h>
+	<graphics.h>
+
